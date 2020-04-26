@@ -1,0 +1,9 @@
+build/*
+builds/*
+distribution/vipm/*.vip
+distribution/working/*
+source/data/bin/*.exe
+source/data/bin/*.dll
+source/*.aliases
+.DS_Store
+*.exe
