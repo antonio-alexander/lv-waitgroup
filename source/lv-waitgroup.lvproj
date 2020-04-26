@@ -30,7 +30,7 @@
 				<Property Name="IncludedItems[0]" Type="Ref">/My Computer/lv-waitgroup.lvlib</Property>
 				<Property Name="IncludeProject" Type="Bool">false</Property>
 				<Property Name="Path[0]" Type="Path">../../distribution/working/lv-waitgroup.zip</Property>
-				<Property Name="ZipBase" Type="Str">NI_zipbasedefault</Property>
+				<Property Name="ZipBase" Type="Str">NI_zipbasevirtual</Property>
 			</Item>
 		</Item>
 	</Item>
