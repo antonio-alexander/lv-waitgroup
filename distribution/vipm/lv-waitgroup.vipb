@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2020-04-26 14:04:53" Modified_Date="2020-04-26 15:10:40" Creator="noobius" Comments="" ID="020971a9cf6c0efe6722136a168885b7">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-04-26 14:04:53" Modified_Date="2020-04-29 21:44:08" Creator="noobius" Comments="" ID="b927cab5ba807551cdc2cb8ace6dbf9b">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_waitgroup</Package_File_Name>
-    <Library_Version>0.9.0.4</Library_Version>
+    <Library_Version>0.9.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\working\lv-waitgroup</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -350,7 +350,7 @@
         <Path>..\working\lv-waitgroup\examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D84E2D9FE642CEC5617CE6F9BBDA572E</GUID>
+      <GUID>0F4FDC5399326631F8E12139BF601175</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -385,7 +385,7 @@
         <Path>..\working\lv-waitgroup\examples\example_01_wait.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A6CDF792FB75FC671CA569AD24344615</GUID>
+      <GUID>EE7C7C4315EAB355CAF9644E787A0BB8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -448,7 +448,7 @@
         <Path>..\working\lv-waitgroup\public\_controls\data_error.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E869B940568B93143E44B6F1D7FD24C3</GUID>
+      <GUID>3277C74EBBCB82AB96BE209BF9402B4B</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
